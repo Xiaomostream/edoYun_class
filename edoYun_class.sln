@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class2.7 数字进制", "cl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class3.7 毕业项目游戏“麟江湖”", "class3.7 毕业项目游戏“麟江湖”\class3.7 毕业项目游戏“麟江湖”.vcxproj", "{F643EB0F-9F52-4E83-B8C2-52C0FF9FB9FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class 23.1 One Definition Rule", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{628AE66E-1297-48E7-BAE5-FDAAD2837543}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class21.1 One Definition Rule", "class21.1 One Definition Rule\class21.1 One Definition Rule.vcxproj", "{A6A7E105-6EDE-4124-851D-E336DC0CCB81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +75,22 @@ Global
 		{F643EB0F-9F52-4E83-B8C2-52C0FF9FB9FF}.Release|x64.Build.0 = Release|x64
 		{F643EB0F-9F52-4E83-B8C2-52C0FF9FB9FF}.Release|x86.ActiveCfg = Release|Win32
 		{F643EB0F-9F52-4E83-B8C2-52C0FF9FB9FF}.Release|x86.Build.0 = Release|Win32
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Debug|x64.ActiveCfg = Debug|x64
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Debug|x64.Build.0 = Debug|x64
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Debug|x86.ActiveCfg = Debug|Win32
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Debug|x86.Build.0 = Debug|Win32
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Release|x64.ActiveCfg = Release|x64
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Release|x64.Build.0 = Release|x64
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Release|x86.ActiveCfg = Release|Win32
+		{628AE66E-1297-48E7-BAE5-FDAAD2837543}.Release|x86.Build.0 = Release|Win32
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Debug|x64.ActiveCfg = Debug|x64
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Debug|x64.Build.0 = Debug|x64
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Debug|x86.Build.0 = Debug|Win32
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Release|x64.ActiveCfg = Release|x64
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Release|x64.Build.0 = Release|x64
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Release|x86.ActiveCfg = Release|Win32
+		{A6A7E105-6EDE-4124-851D-E336DC0CCB81}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
