@@ -14,6 +14,7 @@ void htd::hack::hack() //定义嵌套htd::hack::hack()
 {
     std::cout << "hack\n";
 }
+namespace hk = htd::hack;
 namespace //未命名的命名空间：解决两个转换单元 void Thack互不干涉，避免使用 static void THack.解决可以在本转换单元使用Thack
 {
     void THack()
@@ -39,7 +40,7 @@ int main()
     int p = 2023;
     htd::test();
     htd::hack::hack();
-
+    hk::hack();
     /*std::cout << htd::height << '\n';*/
     std::cout << p << ' ' << ::p << '\n'; //::表示全局命名空间
     t::value = 255;
