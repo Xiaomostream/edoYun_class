@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class21.1 One Definition Rule.cpp">
+    <ClCompile Include="class21.3 namepspace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="t.h">
+    <ClInclude Include="htd.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

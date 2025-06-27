@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a6a7e105-6ede-4124-851d-e336dc0ccb81}</ProjectGuid>
-    <RootNamespace>class211OneDefinitionRule</RootNamespace>
+    <ProjectGuid>{b9cfe64b-dcba-401d-913b-8781fe0c5834}</ProjectGuid>
+    <RootNamespace>class213namepspace</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -131,11 +131,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp" />
-    <ClCompile Include="class21.1 One Definition Rule.cpp" />
+    <ClCompile Include="class21.3 namepspace.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="t.h" />
+    <ClInclude Include="htd.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

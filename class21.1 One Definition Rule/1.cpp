@@ -1,10 +1,10 @@
 #include <iostream>
-const int a = 350;
+#include "t.h"
 extern const int pt = 1000+5;
-int x = 350;
-void test() 
+static int x = 350;
+static void test()
 {
-	std::cout << "Test!";
+	std::cout << a << "+" << x << '\n';
 }
 inline void p() {
 	std::cout << "2p\n";
